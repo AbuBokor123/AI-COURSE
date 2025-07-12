@@ -34,7 +34,6 @@ python tictactoe.py
 
 This is a GUI-based **Chess Game** where the player (White) plays against an **AI-powered computer opponent (Black)**. The game is built using **Pygame** for the GUI and **Minimax algorithm with Alpha-Beta Pruning** for the AI's decision-making logic.
 
----
 
 ## 🧠 Features
 
