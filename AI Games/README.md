@@ -32,8 +32,3 @@ graph TD
     D --> E[Board Evaluation Heuristics]
     A --> F[User Interface]
     F --> G[Tkinter/Pygame/Terminal]
-# Core dependencies
-pip install strategic-ai-games
-
-# Optional GUI packages
-pip install pygame python-chess tkinter
